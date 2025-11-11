@@ -1,0 +1,23 @@
+{
+  "name": "Latin Squares Assignment",
+  "image": "mcr.microsoft.com/devcontainers/java:21-bullseye",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-maven"
+      ],
+      "settings": {
+        "java.home": "/usr/local/sdkman/candidates/java/current"
+      }
+    }
+  },
+  "postCreateCommand": "echo 'Environment ready. Remember: Do not use AI code generation tools for this assignment!'",
+  "remoteUser": "vscode"
+}

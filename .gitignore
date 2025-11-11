@@ -1,0 +1,22 @@
+# Build artifacts
+*.class
+*.jar
+*.exe
+target/
+out/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
