@@ -53,25 +53,7 @@ Output:
 2 3 4 5 1
 ```
 
----
 
-## **Important: Academic Integrity Policy**
-
-⚠️ **AI Code Generation Tools Are NOT Permitted** ⚠️
-
-This is an assignment designed to help you learn fundamental programming concepts. To maintain academic integrity:
-
-- ❌ Do **NOT** use GitHub Copilot, ChatGPT, or any other AI code generation tools
-- ❌ Do **NOT** ask AI assistants to write or debug code for you
-- ❌ Do **NOT** copy code from online sources without understanding it
-- ✅ **DO** work through the problem yourself
-- ✅ **DO** ask your instructor or classmates for help understanding concepts
-- ✅ **DO** use official documentation and tutorials
-- ✅ **DO** take time to learn from mistakes
-
-**Consequences:** Violations of this policy will result in a grade of zero and may be reported to your institution's academic conduct office.
-
-**Note:** GitHub Copilot has been disabled in the Codespace environment for this assignment.
 
 ````
 ```
